@@ -42,6 +42,6 @@ with open(py_bank, 'r', encoding = "utf-8") as csvfile:
     print(f"Average: {rev_average}")
     print(f"Greatest Increase: {greatest_increase}")
     print(f"Greatest Decrease: {greatest_decrese}")
-    print(f"{prev_rev}")
+    
      
   
